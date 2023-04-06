@@ -7,9 +7,9 @@ The goal is to identify the causes and help the company turn a profit.
 
 Tasks:
 
-Determine where users come from and what devices they use,
-Determine the cost of attracting users from different advertising channels;
-Determine how much money each customer brings in,
+- Determine where users come from and what devices they use,
+- Determine the cost of attracting users from different advertising channels;
+- Determine how much money each customer brings in,
 Determine when customer acquisition costs are recovered,
 Identify factors that hinder customer acquisition.
 There is data available on users attracted from May 1 to October 27, 2019:
